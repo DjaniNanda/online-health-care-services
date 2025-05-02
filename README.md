@@ -26,13 +26,19 @@ This Next.js-based website provides a streamlined platform for HealthConnect's h
 ## 📸 Screenshots
 <div align="center">
   <img src="./images/2.JPG" alt="Our Services" />
-  <p><em>Our Healthcare Services</em></p>
+  <p><em>About Us</em></p>
   
   <img src="./images/3.JPG" alt="Practitioners" />
-  <p><em>Our Healthcare Practitioners</em></p>
+  <p><em>Our Services</em></p>
   
   <img src="./images/4.JPG" alt="Booking System" />
-  <p><em>Online Appointment Booking System</em></p>
+  <p><em>Our Doctors</em></p>
+  
+  <img src="./images/5.JPG" alt="Booking System" />
+  <p><em>Contact Us</em></p>
+  
+  <img src="./images/6.JPG" alt="Booking System" />
+  <p><em>Booking Form</em></p>
 </div>
 
 ## 🛠️ Technologies Used
