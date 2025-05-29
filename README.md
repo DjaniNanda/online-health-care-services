@@ -1,6 +1,5 @@
 # HealthConnect
 <div align="center">
-  website link: https://online-health-care-services.vercel.app/
   <h3>Professional Healthcare Services Across Ontario, Canada</h3>
   <p>🩺 Trusted • Accessible • Patient-centered 🩺</p>
 </div>
